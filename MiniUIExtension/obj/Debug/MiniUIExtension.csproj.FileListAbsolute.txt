@@ -1,0 +1,10 @@
+e:\编程资料\源码\mvc控件\MiniUIExtension\obj\Debug\ResolveAssemblyReference.cache
+e:\编程资料\源码\mvc控件\MiniUIExtension\bin\Debug\MiniUIExtension.dll
+e:\编程资料\源码\mvc控件\MiniUIExtension\bin\Debug\MiniUIExtension.pdb
+e:\编程资料\源码\mvc控件\MiniUIExtension\obj\Debug\MiniUIExtension.dll
+e:\编程资料\源码\mvc控件\MiniUIExtension\obj\Debug\MiniUIExtension.pdb
+E:\dudor\work\GFT\SOURCE\NewGTF\MiniUIExtension\bin\Debug\MiniUIExtension.dll
+E:\dudor\work\GFT\SOURCE\NewGTF\MiniUIExtension\bin\Debug\MiniUIExtension.pdb
+E:\dudor\work\GFT\SOURCE\NewGTF\MiniUIExtension\obj\Debug\ResolveAssemblyReference.cache
+E:\dudor\work\GFT\SOURCE\NewGTF\MiniUIExtension\obj\Debug\MiniUIExtension.dll
+E:\dudor\work\GFT\SOURCE\NewGTF\MiniUIExtension\obj\Debug\MiniUIExtension.pdb
