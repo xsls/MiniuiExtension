@@ -5,6 +5,7 @@ minuiui是一个用于asp.net mvc中的一个HtmlHelper扩展，可以方便的�
 使用方法如下
 
 @using MiniUIExtension; 
+
 @model IEnumerable<Models.User>
 @{
     ViewBag.Title = "Index";
@@ -12,6 +13,7 @@ minuiui是一个用于asp.net mvc中的一个HtmlHelper扩展，可以方便的�
 <!--撑满页面-->
 <div class="mini-fit">
     @Html.GridViewFor(Model, "gridview1").AutoGenerateColumns().SetUrl(Request.RawUrl).SetMultiSelect(true)
+    
     
     @Html.GridViewFor(Model, "gridview1").SetColumns(c =>
 {
